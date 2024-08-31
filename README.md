@@ -1,5 +1,8 @@
+![logo](https://github.com/shitalteli1670/shitalteli1670/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shital Teli</h1>
 <h3 align="center">Software Developer with Extensive Experience in Java, Angular, and Mobile Technologies | Committed to Excellence in Technology Solutions</h3>
+
+<img align = "right" alt = "coding" width = "350" src = "coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitalteli1670&label=Profile%20views&color=0e75b6&style=flat" alt="shitalteli1670" /> </p>
 
